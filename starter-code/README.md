@@ -23,6 +23,16 @@ For today's lab assignment, you will work independently to create a personal por
 For each of the features listed below, make an estimate of the time it will take you to complete the feature, and record your start and finish times for that feature:
 
 ```
+Number and name of feature: Refractor of the CSS
+
+Estimate of time needed to complete: 35min
+
+Start time: 9:40pm
+
+Finish time: 10:15pm
+
+Actual time needed to complete: _____
+```
 Number and name of feature: ________________________________
 
 Estimate of time needed to complete: _____
@@ -32,7 +42,6 @@ Start time: _____
 Finish time: _____
 
 Actual time needed to complete: _____
-```
 
 Add this information to your README.
 
